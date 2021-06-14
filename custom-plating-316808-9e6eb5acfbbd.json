@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "custom-plating-316808",
+  "private_key_id": "9e6eb5acfbbde8f105baf1415ef5005ff5eb2242",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCoVs+nDsRj+mN6\nkJMjgLvypnKLKdyOTWEA4UJNiRUHY5VqWrgS9m22x1JrYuNUfPPRCoHxtUe9suzY\n8sTGrt3XCUQHvHIdsRve4B2B3UpeLhbJiI9Wb77kVtJgjmjodPgETG3w8J1kM15U\n7rYh61L1H1LITw2qMK/9yhQrMLuY+4KZZkR9wk8ZAuUDq+dfq0fBsrPuaEHwrrO5\ncLkhAycUtxBobZb4nLhmuf/X4xSn53q38SDvxROVSTsAZ1lSvr2qiUVigWei4hSC\nJvQY+njsTuYmNEMt2XPSWR7KO2IdzbGPjpQiIf3FOnkfCfIfWYZmVkEZfNLOQi9d\n+/8YGauFAgMBAAECggEACpJ7KPLX5C8z7ge5lJuk53ogdvt6edMZF2ujlPLZ8n8a\nAZYwJHwRYLmMxFLvU914wuU99c7CB5ipYH2sseKxFYHO4eJ/UzyN3iCP/IQymQ7G\nyReYaEq31SeGamB/Qlwi6G2JY736Jd0bsfSqVR/Y860+LyIsiZv/AuQdAf0QnGyo\nhyJXKLP2HiYhoJHp+zyZ8W7lCB/6ELOPPZEpPm3hgPrXN5Wb3KDJvzFAWXlZAeIw\nq3bGwjRRBYFHdPc/Itt+ZotELrh0AgRUmR8jJ9pmzdLOa7LH0OFuswm/5dJS6nUK\nptNaEcj7yPIDySw0IGHxE6vwQsm8hvGKoKhXkc1JCQKBgQDat9ZIUWlNmn5tWQfP\nafxTFKJGQBqfdmfk3sMq5P9N+Nz2ZNpiZU+i7X9S3NuhczCj18cmMpN9L/7V7RjU\nLvKnPUUjDFTZRu0jmaxAQrEoZ/zNB/JUscolkxVtH8e+KT9JlAH23lBCkaJTtjir\nOJR45uAE1WQ5XZjyzDKy+XE7OQKBgQDFCJgr9YCu+M7r5rtM6q9SrNX5q7tdgpvG\nBPvNMYg8DZUE2xxcCmJzixxx8Oo35C6Xnxp+dDXmvsuA+KnDQ3frEqD0gMVcfoHa\nVAUR1Bsc2QmLhm+ynqrrQvPrVDN1YgglXe4YRIQEJ0FgYxHu9tqbUR0EZ1dvg05D\nV4D/0KvWrQKBgCMMbpQsJ5m99iCDsdK1AzA1EEP9pcaD7OYqJFBNXfQaux3oz24R\nGg/byxl2NuPKV7MJsuoWFLhs5oNVeTMXSt8t3FRfd4FR8lJQH+A0T7tP3pzkdxrH\nWsNmrHpOK233oiKiSyZKPcZNHBwaCT621GQDa0abA3KF4yqVOlKf0ltRAoGBAJ5R\nzZRk7EWr/vhmqdGgMchIwJaheygkLm7qyjmSt1kpwLfqJ9t9LKaS/QRBBLJsU1PZ\nsDwzvKvwWy0CocYYjF8C1PoiDnPH4yc/o+Mzf6Wqb5UBLPdlrwji/4P0YHTNlKYR\n16MASuPbdxiwAlT1Xaq3fo1vTD56T4Sk5y6myazxAoGAQd5g9NGRE4J0upXWAJ4E\naUKx8WDrI9ECuDPkl3/aR4f4Oap98dtLbdcSSvCe5XO+Ky+ZqBCM3zw2Uj9kUepW\nCMSoH85JJSByqUTnC8+s7Lwa+apEXCBpMe6YVWHz0qYy8nrUAYXeZbDi0mRqo65M\nPYWP4BZMrq8M9LDZuXlRh1M=\n-----END PRIVATE KEY-----\n",
+  "client_email": "originate-marketing-dashboard@custom-plating-316808.iam.gserviceaccount.com",
+  "client_id": "111222672729943670084",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/originate-marketing-dashboard%40custom-plating-316808.iam.gserviceaccount.com"
+}
